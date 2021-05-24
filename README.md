@@ -1,4 +1,4 @@
-# coarray_fortran_intel_tutorial
+# Coarray Fortran Intel Tutorial
 Examples from Intel Fortran coarray tutorial at https://software.intel.com/content/www/us/en/develop/documentation/fortran-compiler-coarray-tutorial/top.html
 
 Results of running mcpi.bat on Windows 10:
